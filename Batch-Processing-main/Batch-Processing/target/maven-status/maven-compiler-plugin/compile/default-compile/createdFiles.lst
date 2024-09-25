@@ -1,0 +1,5 @@
+com\batch\example\config\CustomItemProcessor.class
+com\batch\example\config\JobCompletionNotificationImpl.class
+com\batch\example\BootBatchExampleApplication.class
+com\batch\example\config\BatchConfig.class
+com\batch\example\model\Product.class
